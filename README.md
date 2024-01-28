@@ -95,7 +95,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;
   <a target="_blank" href="https://www.blender.org"> <img src="./res/blender.svg" alt="Blender" title="Blender"/> </a>
   &nbsp;
-  <a target="_blank" href="https://www.jetbrains.com/idea/"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="100" alt="inteliJ IDE" title="inteliJ IDE"/> </a>
+  <a target="_blank" href="https://www.jetbrains.com/idea/"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="50" alt="inteliJ IDE" title="inteliJ IDE"/> </a>
 </p>
 
 <hr>
