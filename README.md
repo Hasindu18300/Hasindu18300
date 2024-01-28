@@ -23,13 +23,11 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 <p align="center">
   
-  [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/logo.svg "Upek's Portfolio")](https://www.wemixt.com/)
+  
    &nbsp;
-   [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/main/res/dev.png "DEV : upek_hansaja")](https://dev.to/upek_hansaja)
+  [![](https://raw.githubusercontent.com/Hasindu18300/Hasindu18300/main/res/dev.png "DEV : Hasindu Gunathilaka")](https://dev.to/hasindu18300)
   &nbsp;
-  [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/medium.svg "Medium : @upekhansajabk")](https://medium.com/@upekhansajabk)
-  &nbsp;
-  [![](https://raw.githubusercontent.com/UpekHansaja/UpekHansaja/471dd9f6fdce7988246b159d2b39bf7230760b8e/res/twitterx.svg "X : @UpekHansaja")](https://twitter.com/UpekHansaja)
+  [![](https://raw.githubusercontent.com/Hasindu18300/Hasindu18300/2e5f27b26b4c1ebc7015238998619bb2cc502e39/res/medium.svg "Medium : @hasindumihiran18")](https://medium.com/@hasindumihiran18)
   &nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/upek-hansaja/" style="text-decoration:none;"> <img src="./res/linkedin.svg" alt="upek's LinkedIn" title="LinkedIn: upek-hansaja"/> </a>
   &nbsp;
@@ -73,7 +71,7 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   <!-- &nbsp; --> 
   <a target="_blank" href="https://www.arduino.cc"> <img src="./res/arduino.svg" alt="arduino" title="Arduino"/> </a>
   &nbsp;
-  <a target="_blank" href="https://git-scm.com"> <img src="./res/git.svg" alt="git" title="Git"/> </a>
+  <a target="_blank" href="https://git-scm.com"> <img src="./res/git.svg" alt="git" title="Git"/> </a> 
 </p>
 
 <p align="center">
