@@ -29,19 +29,19 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;
   [![](https://raw.githubusercontent.com/Hasindu18300/Hasindu18300/2e5f27b26b4c1ebc7015238998619bb2cc502e39/res/medium.svg "Medium : @hasindumihiran18")](https://medium.com/@hasindumihiran18)
   &nbsp;
-  <a target="_blank" href="https://www.linkedin.com/in/upek-hansaja/" style="text-decoration:none;"> <img src="./res/linkedin.svg" alt="upek's LinkedIn" title="LinkedIn: upek-hansaja"/> </a>
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/upek-hansaja/" style="text-decoration:none;"> <img src="./res/linkedin.svg" alt="upek's LinkedIn" title="LinkedIn: upek-hansaja"/> </a> -->
   &nbsp;
-  <a target="_blank" href="https://www.facebook.com/profile.php?id=100068307769668" style="text-decoration:none;"> <img src="./res/facebook.svg" alt="upek's Facebook" title="Facebook: Upek Hansaja"/> </a>
+  <!-- <a target="_blank" href="https://www.facebook.com/profile.php?id=100068307769668" style="text-decoration:none;"> <img src="./res/facebook.svg" alt="upek's Facebook" title="Facebook: Upek Hansaja"/> </a> -->
   &nbsp;
-  <a target="_blank" href="https://www.instagram.com/upek_hansaja/" style="text-decoration:none;"> <img src="./res/instagram.svg" alt="upek's Instagram" title="Instagram: upek_hansaja"/> </a>
+  <!-- <a target="_blank" href="https://www.instagram.com/upek_hansaja/" style="text-decoration:none;"> <img src="./res/instagram.svg" alt="upek's Instagram" title="Instagram: upek_hansaja"/> </a> -->
   &nbsp;
-  <a target="_blank" href="#" style="text-decoration:none;"> <img src="./res/youtube.svg" alt="upek's YouTube" title="YouTube: Upek Hansaja"/> </a>
+  <!-- <a target="_blank" href="#" style="text-decoration:none;"> <img src="./res/youtube.svg" alt="upek's YouTube" title="YouTube: Upek Hansaja"/> </a> -->
   &nbsp;
-  <a target="_blank" href="https://www.tiktok.com/@upek_hansaja" style="text-decoration:none;"> <img src="./res/tiktok.svg" alt="upek's TikTok" title="TikTok: upek_hansaja"/> </a>
+  <!-- <a target="_blank" href="https://www.tiktok.com/@upek_hansaja" style="text-decoration:none;"> <img src="./res/tiktok.svg" alt="upek's TikTok" title="TikTok: upek_hansaja"/> </a> -->
   &nbsp;
-  <a target="_blank" href="https://www.reddit.com/user/Upek_Hansaja" style="text-decoration:none;"> <img src="./res/redditNew.svg" alt="upek's Reddit" title="Reddit: Upek_Hansaja"/> </a>
+  <!-- <a target="_blank" href="https://www.reddit.com/user/Upek_Hansaja" style="text-decoration:none;"> <img src="./res/redditNew.svg" alt="upek's Reddit" title="Reddit: Upek_Hansaja"/> </a> -->
   &nbsp;
-  <a target="_blank" href="https://www.pinterest.com/upekhansaja/" style="text-decoration:none;"> <img src="./res/pinterest.svg" alt="upek's Pinterest" title="Pinterset: upekhansaja"/> </a>
+  <!-- <a target="_blank" href="https://www.pinterest.com/upekhansaja/" style="text-decoration:none;"> <img src="./res/pinterest.svg" alt="upek's Pinterest" title="Pinterset: upekhansaja"/> </a> -->
 </p>
 
 <hr>
@@ -94,6 +94,8 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   <a target="_blank" href="https://www.blackmagicdesign.com/products/davinciresolve"> <img src="./res/davinciResolve.svg" alt="DaVinci Resolve" title="DaVinci Resolve"/> </a>
   &nbsp;
   <a target="_blank" href="https://www.blender.org"> <img src="./res/blender.svg" alt="Blender" title="Blender"/> </a>
+  &nbsp;
+  <a target="_blank" href="https://www.jetbrains.com/idea/"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="100" alt="inteliJ IDE" title="inteliJ IDE"/> </a>
 </p>
 
 <hr>
@@ -104,12 +106,10 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
 
 <img align="right" alt="Support" width="150" src="res/sup.gif"/>
 
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/UpekHansaja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </p>
 
 <hr>
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=UpekHansaja&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UpekHansaja&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="UpekHansaja" /></p> |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Hasindu18300&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasindu18300&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Hasindu18300" /></p> |
 | ------------- | ------------- |
