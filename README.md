@@ -29,19 +29,17 @@ Welcome to my GitHub portfolio, where you'll find a collection of my projects sh
   &nbsp;
   [![](https://raw.githubusercontent.com/Hasindu18300/Hasindu18300/2e5f27b26b4c1ebc7015238998619bb2cc502e39/res/medium.svg "Medium : @hasindumihiran18")](https://medium.com/@hasindumihiran18)
   &nbsp;
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/upek-hansaja/" style="text-decoration:none;"> <img src="./res/linkedin.svg" alt="upek's LinkedIn" title="LinkedIn: upek-hansaja"/> </a> -->
+   <a target="_blank" href="www.linkedin.com/in/hasindu-gunathilaka-b5b708254" style="text-decoration:none;"> <img src="./res/linkedin.svg" alt="upek's LinkedIn" title="LinkedIn: upek-hansaja"/> </a> 
   &nbsp;
-  <!-- <a target="_blank" href="https://www.facebook.com/profile.php?id=100068307769668" style="text-decoration:none;"> <img src="./res/facebook.svg" alt="upek's Facebook" title="Facebook: Upek Hansaja"/> </a> -->
+   <a target="_blank" href="(https://www.facebook.com/hasindu.mihiran.39047)" style="text-decoration:none;"> <img src="./res/facebook.svg" alt="upek's Facebook" title="Facebook: Hasindu Gunathilaka"/> </a> 
   &nbsp;
-  <!-- <a target="_blank" href="https://www.instagram.com/upek_hansaja/" style="text-decoration:none;"> <img src="./res/instagram.svg" alt="upek's Instagram" title="Instagram: upek_hansaja"/> </a> -->
+   <a target="_blank" href="https://www.instagram.com/upek_hansaja/" style="text-decoration:none;"> <img src="./res/instagram.svg" alt="upek's Instagram" title="Instagram: upek_hansaja"/> </a> 
   &nbsp;
-  <!-- <a target="_blank" href="#" style="text-decoration:none;"> <img src="./res/youtube.svg" alt="upek's YouTube" title="YouTube: Upek Hansaja"/> </a> -->
+   <a target="_blank" href="#" style="text-decoration:none;"> <img src="./res/youtube.svg" alt="upek's YouTube" title="YouTube: Upek Hansaja"/> </a> 
   &nbsp;
-  <!-- <a target="_blank" href="https://www.tiktok.com/@upek_hansaja" style="text-decoration:none;"> <img src="./res/tiktok.svg" alt="upek's TikTok" title="TikTok: upek_hansaja"/> </a> -->
+   <a target="_blank" href="https://www.reddit.com/user/Upek_Hansaja" style="text-decoration:none;"> <img src="./res/redditNew.svg" alt="upek's Reddit" title="Reddit: Upek_Hansaja"/> </a> 
   &nbsp;
-  <!-- <a target="_blank" href="https://www.reddit.com/user/Upek_Hansaja" style="text-decoration:none;"> <img src="./res/redditNew.svg" alt="upek's Reddit" title="Reddit: Upek_Hansaja"/> </a> -->
-  &nbsp;
-  <!-- <a target="_blank" href="https://www.pinterest.com/upekhansaja/" style="text-decoration:none;"> <img src="./res/pinterest.svg" alt="upek's Pinterest" title="Pinterset: upekhansaja"/> </a> -->
+   <a target="_blank" href="https://www.pinterest.com/upekhansaja/" style="text-decoration:none;"> <img src="./res/pinterest.svg" alt="upek's Pinterest" title="Pinterset: upekhansaja"/> </a> 
 </p>
 
 <hr>
